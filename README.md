@@ -13,4 +13,4 @@ https://learnantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Sergio Lamar
 
-# Run Buddy, Inc.
+### ©Run Buddy, Inc.
