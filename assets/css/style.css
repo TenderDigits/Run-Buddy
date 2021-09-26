@@ -143,24 +143,6 @@ section {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
-<<<<<<< HEAD
-}
-
-.hero-cta {
-    width: 35%;
-    text-align: right;
-    margin: 3.5%;
-    color: #fff;
-    font-size: 18px;
-    line-height: 1.3;
-}  
-
-.hero-cta h2 {
-    font-style: italic;
-    font-size: 55px;
-    color: #fce138;
-=======
->>>>>>> feature/mediaqueries
 }
 /* End of Hero Styling */
 
