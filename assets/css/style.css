@@ -127,7 +127,7 @@ section {
     background-color: #024e76;
     border: none;
     padding: 10px 20px;
-    font-size: 16px};
+    font-size: 16px;
 }
 
 .hero-cta {
@@ -298,12 +298,12 @@ section {
 }
 
 .contact-info > * {
-    flex 1;
+    flex: 1;
     margin: 15px;
 }
 
 .contact-info iframe {
-    height: 400px;
+    height: 25rem;
 }
 
 .contact-info div {
